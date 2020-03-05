@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0897d434-a37c-4082-be3e-f67de556a3f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/engeto/CommentDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/engeto/JsonDownloader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/engeto/CommentDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/engeto/CommentExtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/engeto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/engeto/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +27,7 @@
   <component name="ProjectId" id="1YOmmDQcIXJywNgFgfJQV1QbgDu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -98,7 +99,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/engeto/Main.java</url>
-          <line>8</line>
+          <line>13</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
